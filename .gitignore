@@ -1,0 +1,30 @@
+# IntelliJ
+.idea/
+
+# VS Code
+.vscode/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Java
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Environment
+.env
+
+# OS
+Thumbs.db
+.DS_Store
